@@ -1,4 +1,4 @@
 # Practica_3
 
 
-tremendo texto que voy a editar, mi jefe no me quiere.
+tremendo de texto que voy a editar, mi jefe ahora me quiere.
