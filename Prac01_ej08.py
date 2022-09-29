@@ -1,6 +1,5 @@
 #Importaciones
-
-from turtle import Turtle, Screen
+from tortle (asíes esto va a petar) import Turtle, Screen
 
 #Inicio
 
